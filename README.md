@@ -1,4 +1,6 @@
-# Controls and compliance checklist
+# Controls and compliance checklist 
+
+<a href="http://docs.google.com/document/d/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?usp=sharing" target="_blank">Google Document</a>
 
 ## Objective
 
