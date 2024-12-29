@@ -1,9 +1,5 @@
 # Project# PROJECTNAME
 
-# Google Drive and Docs setup
-SCOPES = ['https://www.googleapis.com/auth/1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA/edit?tab=t.0
-DOC_ID = '1DURRgH-OB7h9z0TQXE4d9blGVWhxHHtdMjVqP7mBukA'  # Your Google Doc ID
-
 ## Objective
 [Brief Objective - Remove this afterwards]
 
